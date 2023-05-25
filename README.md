@@ -12,8 +12,6 @@ Lo que nos pide es crear una adquisición de filtros de aceite y de diésel, par
 ## Diagrama propuesto de Base de datos
 ![Diagrama adquisicion drawio](https://github.com/Pabdro/dockerExamenBDA/assets/80706043/782c52f7-9772-42cc-bc2b-f653663dbfa8)
 
-#### Contraseñas de las bases de datos .- qwert
-
 ## Requisitos técnicos
 * Docker: Tener el docker desktop instalado (https://www.docker.com/products/docker-desktop/).
 
