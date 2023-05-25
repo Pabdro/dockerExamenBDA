@@ -9,6 +9,8 @@ La Policía Boliviana es la institución encargada de mantener el orden público
 
 Lo que nos pide es crear una adquisición de filtros de aceite y de diésel, para vehículos y motocicletas de las direcciones nacionales de la Policía boliviana.
 
+Contraseñas .- qwert
+
 ## Diagrama propuesto de Base de datos
 
 ![Diagrama adquisicion drawio](https://github.com/Pabdro/dockerExamenBDA/assets/80706043/dbeb5342-5fdc-4ae2-b77a-3fd0ffba952a)
